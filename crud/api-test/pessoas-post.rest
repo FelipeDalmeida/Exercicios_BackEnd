@@ -1,0 +1,8 @@
+POST  http://localhost:1802/pessoas/
+Content-Type: application/json
+
+{
+    "name": "Lua",
+    "surname": "Seabra d'Almeida",
+    "age": 10
+ }

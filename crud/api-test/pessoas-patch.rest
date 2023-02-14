@@ -1,0 +1,7 @@
+PATCH  http://localhost:1802/pessoas/1
+Content-Type: application/json
+
+{
+    "surname": "Seabra d'Almeida",
+    "age": 29
+ }

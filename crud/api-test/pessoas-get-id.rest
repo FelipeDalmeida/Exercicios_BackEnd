@@ -1,0 +1,2 @@
+GET http://localhost:1802/pessoas/4
+Content-Type: application/json
